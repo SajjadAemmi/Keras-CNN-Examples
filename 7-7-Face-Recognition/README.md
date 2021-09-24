@@ -12,14 +12,14 @@ Face recognition using python
 
 ## PreTrain Model
 If you do not wish to train the model, we also provide trained model. Pretrain model and trained model are put in
-[google drive](https://drive.google.com/drive/folders/1otgK5wd7axsLtDjvB2JcZ8xQ9kKLXZrj?usp=sharing)
+[Google Drive](https://drive.google.com/drive/folders/1otgK5wd7axsLtDjvB2JcZ8xQ9kKLXZrj?usp=sharing)
 
 ## Dataset
 7-7 Faces dataset: 14 human (7 Males / 7 Females) with 1.2K labeled images.
-Get dataset from [google drive](https://drive.google.com/drive/folders/1WGSotRtFPYGuxPEGkWWRsBPlVXFSvl7p?usp=sharing)
+Get dataset from [Google Drive](https://drive.google.com/drive/folders/1WGSotRtFPYGuxPEGkWWRsBPlVXFSvl7p?usp=sharing)
 
 ## Train
-Run Face_Recognition_Train.ipynb
+Run `Face_Recognition_Train.ipynb`
 
 ## Test
 Evaluate the trained model using:
