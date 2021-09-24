@@ -6,6 +6,5 @@ __pycache__
 .vscode
 .ipynb_checkpoints
 
-7_7_dataset
 /weights
-
+17_flowers_dataset/
