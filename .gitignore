@@ -7,4 +7,3 @@ __pycache__
 .ipynb_checkpoints
 
 /weights
-17_flowers_dataset/
